@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("Commit","Committting");
+        Log.i("Commit","Committting");
     }
 
     public static void gitStuff() {
